@@ -1,0 +1,20 @@
+{
+  "token": "NTY0MTQxMzQ4MjM2Njg5NDQ2.Xq7Ibw.rsX7LHPgnOw1_XcIBQ-On1oZAVI",
+  "prefix": ".",
+  "name": "",
+  "guildID": "706924868154949682",
+  "supportRole": "706925257185034273", 
+  "ticketsCat": "706926260881981441",
+  "logChannel": "706925487791800643",
+  "colour": "#009999",
+  "playing": ".buy to buy a key",
+  "activityType": "PLAYING",
+  "status": "ONLINE",
+  "useEmbeds": true,
+  "logDMs": true,
+  "cooldown": 3,
+  "ticketImage": true,
+  "tagHereOnly": false,
+  "ticketText": "Thank you for reaching out to our Sellers.\nA Seller will help you shortly. Please tell us what Package you want to buy.\n\n*Please speak only English/Romanian.*",
+  "debugLevel": 0
+}

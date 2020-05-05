@@ -1,0 +1,31 @@
+{
+  "name": "DiscordTickets",
+  "version": "1.1.5",
+  "description": "A Discord ticket/support - an open-source & self-hosted bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "fs": "0.0.1-security",
+    "leeks.js": "0.0.8",
+    "leekslazylogger": "^1.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eartharoid/DiscordTickets.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tickets"
+  ],
+  "author": "Eartharoid",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/eartharoid/DiscordTickets/issues"
+  },
+  "homepage": "https://github.com/eartharoid/DiscordTickets"
+}
